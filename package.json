@@ -8,6 +8,10 @@
     "lint": "eslint .",
     "prepare": "npm run lint && npm test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmac105/joi-starts-with-ref.git"
+  },
   "keywords": [
     "joi",
     "custom"
