@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "extends": "google",
+  "rules": {
+    "arrow-parens": [2, "as-needed"],
+    "comma-dangle": [2, "never"],
+    "indent": [2, 2],
+    "max-len": ["error", { "code": 120 }],
+    "quotes": [2, "double"]
+  }
+}
